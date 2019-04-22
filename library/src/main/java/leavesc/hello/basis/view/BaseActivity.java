@@ -1,6 +1,5 @@
 package leavesc.hello.basis.view;
 
-import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Intent;
 import android.support.annotation.StringRes;
@@ -16,7 +15,6 @@ import leavesc.hello.basis.widget.LoadingDialog;
  * GitHub：https://github.com/leavesC
  * Blog：https://www.jianshu.com/u/9df45b87cfdf
  */
-@SuppressLint("Registered")
 public class BaseActivity extends AppCompatActivity {
 
     protected LoadingDialog loadingDialog;
