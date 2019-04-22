@@ -1,4 +1,4 @@
-package leavesc.hello.basis.widget;
+package leavesc.hello.basis.view;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.support.annotation.StringRes;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
+
+import leavesc.hello.basis.widget.LoadingDialog;
 
 /**
  * 作者：leavesC

@@ -1,9 +1,9 @@
-package leavesc.hello.basis;
+package leavesc.hello.basisdemo;
 
 import android.os.Bundle;
 import android.view.View;
 
-import leavesc.hello.basis.widget.BaseActivity;
+import leavesc.hello.basis.view.BaseActivity;
 
 /**
  * 作者：leavesC

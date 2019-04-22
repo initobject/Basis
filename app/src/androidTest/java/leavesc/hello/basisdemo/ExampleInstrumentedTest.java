@@ -1,4 +1,4 @@
-package leavesc.hello.basis;
+package leavesc.hello.basisdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
