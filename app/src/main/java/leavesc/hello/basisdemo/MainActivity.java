@@ -22,8 +22,8 @@ public class MainActivity extends BaseActivity {
         showLoadingDialog("正在加载", true);
     }
 
-    public void hideLoadingDialog(View view) {
-        hideLoadingDialog();
+    public void dismissLoadingDialog(View view) {
+        dismissLoadingDialog();
     }
 
 }

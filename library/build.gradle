@@ -16,6 +16,10 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    compileOptions {
+        sourceCompatibility = '1.8'
+        targetCompatibility = '1.8'
+    }
 }
 
 dependencies {
@@ -31,7 +35,7 @@ publish {
     userOrg = 'leavesc'
     groupId = 'leavesc.hello'
     artifactId = 'basis'
-    publishVersion = '0.0.1'
+    publishVersion = '0.0.2'
     website = 'https://github.com/leavesC/Basis'
     desc = 'A Basis'
 }
